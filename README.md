@@ -1,15 +1,12 @@
 # 💡 Joao Vieira  
 *** `~$ cd Software Engineer [System Analysis, Planning, Development and Implementation]` ***
 
-_______________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🕴️ About me:
 Greetings! 🖖
 I am a working student at the [Aveiro University](https://www.ua.pt/), attending the [Degree in Computer and Informatics Engineering](https://www.ua.pt/pt/curso/486). 
 I'm also an freelancing full-stack developer, building my own software projects to own my skills or make flourish my interests in certain areas, solving real-life problems with my craft. 
 If you are interested in contacting me you can do so 👉 [HERE](https://www.joaovieira.engineer/)!
-
-_______________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🛠️ Tools:
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
@@ -22,7 +19,6 @@ ________________________________________________________________________________
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
           
 <br />
-_______________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 💻 Programing Languages:
 <img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" />
@@ -37,7 +33,6 @@ ________________________________________________________________________________
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
 <br />
-_______________________________________________________________________________________________________________________________________________________________________________________________
 
 ##  Stats
 
