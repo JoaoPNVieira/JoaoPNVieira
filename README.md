@@ -30,7 +30,7 @@ If you are interested in contacting me you can do so 👉 [HERE](https://www.joa
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="MicrosoftSQLServer" width="50px" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" />
+<img align="left" alt="MicrosoftSQLServer" width="50px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/278/609/png-transparent-microsoft-sql-server-sql-server-management-studio-windows-server-2008-database-performance-angle-symmetry-shoe.png" />
 <img align="left" alt="Dart" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
