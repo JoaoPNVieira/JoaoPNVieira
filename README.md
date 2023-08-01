@@ -12,14 +12,14 @@ If you are interested in contacting me you can do so 👉 [HERE](https://www.joa
 
 ## 🛠️ Tools:
 <img align="left" alt="Ubuntu" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/G/github-octocat-logo-66D20700F0-seeklogo.com.png" />
 <img align="left" alt="Quartus" width="50px" style="padding-right:10px;" src="https://downloadlyir.com/wp-content/uploads/2022/03/Quartus-Prime-.png" />
 <img align="left" alt="Wireshark" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
 <img align="left" alt="GNS3" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" />
 <img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="AndroidStudio" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/278/609/png-transparent-microsoft-sql-server-sql-server-management-studio-windows-server-2008-database-performance-angle-symmetry-shoe.png" />
-<img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/270/765/png-transparent-unity-logo-illustration-unity-game-engine-logo-video-game-corelle-brands-angle-text-c-thumbnail.png" />
+<img align="left" alt="MicrosoftSQLServer" width="50px" style="padding-right:10px;" src="https://hub.meltano.com/assets/logos/extractors/mssql.png" />
+<img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/911/748/png-clipart-unity-technologies-adobe-flash-computer-software-technology-unity-emblem-electronics.png" />
 
 <br/>
 <br/>
@@ -30,7 +30,7 @@ If you are interested in contacting me you can do so 👉 [HERE](https://www.joa
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="MicrosoftSQLServer" width="50px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/278/609/png-transparent-microsoft-sql-server-sql-server-management-studio-windows-server-2008-database-performance-angle-symmetry-shoe.png" />
+<img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" />
 <img align="left" alt="Dart" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
