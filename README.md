@@ -12,28 +12,28 @@ If you are interested in contacting me you can do so 👉 [HERE](https://www.joa
 
 ## 🛠️ Tools:
 <img align="left" alt="Ubuntu" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" />
-<img align="left" alt="Quartus" width="30px" style="padding-right:10px;" src="https://image.pngaaa.com/836/4783836-middle.png" />
-<img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
-<img align="left" alt="GNS3" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/270/765/png-transparent-unity-logo-illustration-unity-game-engine-logo-video-game-corelle-brands-angle-text-c-thumbnail.png" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" />
+<img align="left" alt="Quartus" width="50px" style="padding-right:10px;" src="https://image.pngaaa.com/836/4783836-middle.png" />
+<img align="left" alt="Wireshark" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
+<img align="left" alt="GNS3" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" />
+<img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="AndroidStudio" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" />
+<img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/270/765/png-transparent-unity-logo-illustration-unity-game-engine-logo-video-game-corelle-brands-angle-text-c-thumbnail.png" />
 
 <br />
 
 ## 💻 Programing Languages:
-<img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/244/430/png-transparent-microsoft-sql-server-sql-server-management-studio-database-server-microsoft-angle-text-triangle.png" />
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Assembly" width="50px" style="padding-right:10px;" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" />
+<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/244/430/png-transparent-microsoft-sql-server-sql-server-management-studio-database-server-microsoft-angle-text-triangle.png" />
+<img align="left" alt="Dart" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
+<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
 <br />
 
