@@ -1,7 +1,7 @@
 <div style="background-image: url('https://raw.githubusercontent.com/JoaoPNVieira/Universidade-de-Aveiro/main/img/wallpaper.jpg'); background-size: cover; background-repeat: no-repeat; padding: 50px;">
 
 # 💡 Joao Vieira  
-### `~$ cd Software Engineer [System Analysis, Planning, Development and Implementation]` ***
+*** `~$ cd Software Engineer [System Analysis, Planning, Development and Implementation]` ***
 
 
 ## 🕴️ About me:
@@ -21,6 +21,7 @@ If you are interested in contacting me you can do so 👉 [HERE](https://www.joa
 <img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" />
 <img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/270/765/png-transparent-unity-logo-illustration-unity-game-engine-logo-video-game-corelle-brands-angle-text-c-thumbnail.png" />
 
+<br/>
 <br/>
 
 ## 💻 Programing Languages:
