@@ -13,7 +13,7 @@ If you are interested in contacting me you can do so 👉 [HERE](https://www.joa
 ## 🛠️ Tools:
 <img align="left" alt="Ubuntu" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" />
-<img align="left" alt="Quartus" width="50px" style="padding-right:10px;" src="https://image.pngaaa.com/836/4783836-middle.png" />
+<img align="left" alt="Quartus" width="50px" style="padding-right:10px;" src="https://downloadlyir.com/wp-content/uploads/2022/03/Quartus-Prime-.png" />
 <img align="left" alt="Wireshark" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
 <img align="left" alt="GNS3" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" />
 <img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
