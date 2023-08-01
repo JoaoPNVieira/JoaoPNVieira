@@ -19,7 +19,7 @@ If you are interested in contacting me you can do so 👉 [HERE](https://www.joa
 <img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="AndroidStudio" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="MicrosoftSQLServer" width="50px" style="padding-right:10px;" src="https://hub.meltano.com/assets/logos/extractors/mssql.png" />
-<img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/911/748/png-clipart-unity-technologies-adobe-flash-computer-software-technology-unity-emblem-electronics.png" />
+<img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/978/350/png-clipart-unity-3d-computer-graphics-video-games-augmented-reality-game-engine-unity-logo-game-angle-thumbnail.png" />
 
 <br/>
 <br/>
