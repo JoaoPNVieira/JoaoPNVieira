@@ -9,8 +9,8 @@ I'm also an freelancing full-stack developer, building my own software projects 
 If you are interested in contacting me you can do so 👉 [HERE](https://www.joaovieira.engineer/)!
 
 ## 🛠️ Tools:
-<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Quartus" width="30px" style="padding-right:10px;" src="https://www.pngfind.com/pngs/m/148-1482706_quartus-logo-png-transparent-quartus-logo-png-download.png" />
 <img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
 <img align="left" alt="GNS3" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" />
