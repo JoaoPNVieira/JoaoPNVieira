@@ -1,7 +1,7 @@
 <div style="background-image: url('https://raw.githubusercontent.com/JoaoPNVieira/Universidade-de-Aveiro/main/img/wallpaper.jpg'); background-size: cover; background-repeat: no-repeat; padding: 50px;">
 
 # 💡 Joao Vieira  
-*** `~$ cd Software Engineer [System Analysis, Planning, Development and Implementation]` ***
+## *** `~$ cd Software Engineer [System Analysis, Planning, Development and Implementation]` ***
 
 
 ## 🕴️ About me:
@@ -10,6 +10,7 @@ I am a working student at the [Aveiro University](https://www.ua.pt/), attending
 I'm also an freelancing full-stack developer, building my own software projects to own my skills or make flourish my interests in certain areas, solving real-life problems with my craft. 
 If you are interested in contacting me you can do so 👉 [HERE](https://www.joaovieira.engineer/)!
 
+<br>
 ## 🛠️ Tools:
 <img align="left" alt="Ubuntu" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" />
@@ -21,8 +22,8 @@ If you are interested in contacting me you can do so 👉 [HERE](https://www.joa
 <img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" />
 <img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/270/765/png-transparent-unity-logo-illustration-unity-game-engine-logo-video-game-corelle-brands-angle-text-c-thumbnail.png" />
 
-<br />
-
+<br/>
+<br>
 ## 💻 Programing Languages:
 <img align="left" alt="Assembly" width="50px" style="padding-right:10px;" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" />
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -35,11 +36,11 @@ If you are interested in contacting me you can do so 👉 [HERE](https://www.joa
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
-<br />
-
+<br/>
+<br>
 ##  Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPNVieira&show_icons=true&theme=gruvbox)
 
-
+<br/>
 </div>
