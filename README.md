@@ -19,13 +19,13 @@ If you are interested in contacting me you can do so 👉 [HERE](https://www.joa
 <img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="AndroidStudio" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="MicrosoftSQLServer" width="50px" style="padding-right:10px;" src="https://hub.meltano.com/assets/logos/extractors/mssql.png" />
-<img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/978/350/png-clipart-unity-3d-computer-graphics-video-games-augmented-reality-game-engine-unity-logo-game-angle-thumbnail.png" />
+<img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
 
 <br/>
 <br/>
 
 ## 💻 Programing Languages:
-<img align="left" alt="Assembly" width="50px" style="padding-right:10px;" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" />
+<img align="left" alt="Assembly" width="50px" style="padding-right:10px;" src="https://gitconnected.com/public/images/tutorials/svg/assembly-language.png" />
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
