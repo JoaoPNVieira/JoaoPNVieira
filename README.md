@@ -39,9 +39,4 @@ If you are interested in contacting me you can do so 👉 [HERE](https://www.joa
 <br/>
 <br/>
 
-##  Stats 
-![JoaoPNVieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPNVieira&show_icons=true&theme=gruvbox)
-
-
-
 </div>
