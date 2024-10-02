@@ -1,7 +1,7 @@
 <div style="background-image: url('https://raw.githubusercontent.com/JoaoPNVieira/Universidade-de-Aveiro/main/img/wallpaper.jpg'); background-size: cover; background-repeat: no-repeat; padding: 50px;">
 
 # 💡 Joao Vieira  
-*** `~$ cd Software Engineer [System Analysis, Planning, Development and Implementation]` ***
+*** `~$ cd Computer Engineering [System Analysis, Planning, Development and Implementation]` ***
 
 
 ## 🕴️ About me:
