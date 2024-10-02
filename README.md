@@ -7,8 +7,7 @@
 ## 🕴️ About me:
 Greetings! 🖖
 I am a working student at the [Aveiro University](https://www.ua.pt/), attending the [Degree in Computer and Informatics Engineering](https://www.ua.pt/pt/curso/486). 
-I'm also an freelancing full-stack developer, building my own software projects to own my skills or make flourish my interests in certain areas, solving real-life problems with my craft. 
-If you are interested in contacting me you can do so 👉 [HERE](https://www.joaovieira.engineer/)!
+I'm also work professionaly as a software programmer and build my own software projects to own my skills. 
 
 ## 🛠️ Tools:
 <img align="left" alt="Ubuntu" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
